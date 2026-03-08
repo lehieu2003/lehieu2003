@@ -39,7 +39,6 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehieu2003)](https://github.com/lehieu2003/github-readme-stats)
 
 <br>
