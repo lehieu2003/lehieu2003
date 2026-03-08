@@ -38,7 +38,13 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lehieu2003&theme=radical&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/lehieu2003?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+</div>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -62,10 +68,3 @@
 </div>
 
 <br>
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/lehieu-quotes.svg" width="846" height="150" alt="lehieu-official" />
-</a>
