@@ -1,8 +1,3 @@
-<!-- lehieu -->
-<a href="#" target="_blank">
-  <img src="svg/lehieu.svg" width="1200" alt="lehieu-official" />
-</a>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <h3>🧠 Programming Languages</h3>
