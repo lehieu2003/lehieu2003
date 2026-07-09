@@ -29,6 +29,11 @@
 &nbsp;
 
 <span>
+<img src="https://img.shields.io/badge/React-282C34?logo=flutter&logoColor=61DAFB" height="25"/>
+</span>
+&nbsp;
+
+<span>
 <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25"/>
 </span>
 &nbsp;
