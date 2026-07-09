@@ -29,7 +29,7 @@
 &nbsp;
 
 <span>
-<img src="https://img.shields.io/badge/React-282C34?logo=flutter&logoColor=61DAFB" height="25"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 </span>
 &nbsp;
 
